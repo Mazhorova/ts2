@@ -1,3 +1,3 @@
 export default {
-  base: '/TS/'
+  base: '/ts2/'
 }
